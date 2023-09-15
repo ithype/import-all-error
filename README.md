@@ -2,4 +2,4 @@
 
 Ссылка на статью: https://ithype.pro/articles/pochemu-nelzya-ispolzovat-import-all
 
-Ссылка на видео: 
+Ссылка на видео: https://www.youtube.com/watch?v=VU7qtSYK4Q8
