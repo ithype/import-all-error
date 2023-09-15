@@ -4,4 +4,4 @@ import database
 
 
 date.format_date()
-database.format_database()
+database.format_date()
